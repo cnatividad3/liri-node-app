@@ -10,13 +10,16 @@
 </ul>
 
 <h2>Concert this</h2>
-![concert](/images/concertthis.png)
+![concert](images/concertthis.png)
 
 <h2>Spotify this song</h2>
-![spotify](/images/spotify.png)
+![spotify](images/spotify.png)
 
 <h2>Movie this</h2>
-![movie](/images/movie.png)
+![movie](images/movie.png)
 
 <h2>Do what it says</h2>
-![random](/images/dowhatitsays.png)
+![random](images/dowhatitsays.png)
+
+<h2>Video tutorial</h2>
+<p>https://drive.google.com/file/d/1kOTpRkRwa2N2MB2zvO4luqpF8v6YE0cH/view<p>
